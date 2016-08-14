@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LockButtonSide">90dp</dimen>
+    <dimen name="SecLockMarginTop">150dp</dimen>
+    <dimen name="TirLockMarginTop">300dp</dimen>
+    <dimen name="SecLockMarginLeft">135dp</dimen>
+    <dimen name="TirLockMarginLeft">270dp</dimen>
+</resources>
